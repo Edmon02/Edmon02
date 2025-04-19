@@ -28,7 +28,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-3daabf?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
@@ -49,12 +51,18 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmon02&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7CF87E&icon_color=BB86FC" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7CF87E" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Edmon02&theme=dark&hide_border=true&background=0D1117&stroke=7CF87E&ring=BB86FC&fire=BB86FC&currStreakNum=7CF87E" alt="GitHub Streak" />
 </div>
+
 
 ---
 
