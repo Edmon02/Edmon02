@@ -65,10 +65,10 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Add your LinkedIn/Twitter when ready -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/edmon-sahakyan-64798619a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://x.com/EdmonSahakayan">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
