@@ -94,5 +94,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeongpin&label=Profile%20views&color=7CF87E&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Edmon02&label=Profile%20views&color=7CF87E&style=flat-square" alt="Profile views" />
 </div>
