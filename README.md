@@ -10,7 +10,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagination%20is%20more%20important%20than%20knowledge.%20For%20knowledge%20is%20limited,%20whereas%20imagination%20embraces%20the%20entire%20world,%20stimulating%20progress,%20giving%20birth%20to%20evolution.&author=Albert%20Einstein" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" alt="Quote" />
 </div>
 
 ---
