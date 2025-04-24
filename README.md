@@ -10,7 +10,17 @@
 </h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" alt="Quote" />
+  <picture>
+    <source 
+      media="(max-width: 600px)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci"
+    >
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" 
+      alt="Quote"
+      style="max-width: 100%; height: auto;"
+    >
+  </picture>
 </div>
 
 ---
