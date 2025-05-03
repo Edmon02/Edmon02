@@ -93,6 +93,15 @@
 
 ---
 
+## 🌟 Support My Work
+
+If you find my projects valuable, consider:
+
+[![GitHub Sponsors](https://img.shields.io/badge/-Sponsor%20Me-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Edmon02)
+[![buymeacoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd04?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://https://buymeacoffee.com/edmonsahakm)
+
+---
+
 ### 🎯 Challenge Me!
 
 <p align="center">
@@ -105,4 +114,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Edmon02&label=Profile%20views&color=7CF87E&style=flat-square" alt="Profile views" />
+    <a href="https://github.com/Edmon02?tab=followers">
+    <img src="https://img.shields.io/github/followers/Edmon02?label=Follow%20%40Edmon02&style=social" alt="GitHub followers" />
+  </a>
 </div>
