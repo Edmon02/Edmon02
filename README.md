@@ -98,7 +98,7 @@
 If you find my projects valuable, consider:
 
 [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor%20Me-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Edmon02)
-[![buymeacoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd04?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://https://buymeacoffee.com/edmonsahakm)
+[![buymeacoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd04?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/edmonsahakm)
 
 ---
 
