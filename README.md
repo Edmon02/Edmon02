@@ -69,9 +69,9 @@
 </div>
 
 <!-- GitHub Streak Stats -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Edmon02&theme=dark&hide_border=true&background=0D1117&stroke=7CF87E&ring=BB86FC&fire=BB86FC&currStreakNum=7CF87E" alt="GitHub Streak" />
-</div>
+</div> -->
 
 
 ---
