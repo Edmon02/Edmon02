@@ -58,15 +58,7 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats Cards -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmon02&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7CF87E&icon_color=BB86FC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmon02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7CF87E" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
+
 
 <!-- GitHub Streak Stats -->
 <!-- <div align="center">
